@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mini_pupper_interfaces/msg/LineDetectionResult.msg
+// generated code does not contain a copyright notice
+
+
+module mini_pupper_interfaces {
+  module msg {
+    struct LineDetectionResult {
+      string linear;
+
+      string angular;
+    };
+  };
+};

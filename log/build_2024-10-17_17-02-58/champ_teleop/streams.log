@@ -1,0 +1,42 @@
+[0.060s] Invoking command in '/home/darshan/ros2_ws/build/champ_teleop': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darshan/ros2_ws/src/champ/champ_teleop -DCMAKE_INSTALL_PREFIX=/home/darshan/ros2_ws/install/champ_teleop
+[1.029s] -- The C compiler identification is GNU 11.4.0
+[1.029s] -- The CXX compiler identification is GNU 11.4.0
+[1.029s] -- Detecting C compiler ABI info
+[1.029s] -- Detecting C compiler ABI info - done
+[1.029s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.030s] -- Detecting C compile features
+[1.030s] -- Detecting C compile features - done
+[1.030s] -- Detecting CXX compiler ABI info
+[1.030s] -- Detecting CXX compiler ABI info - done
+[1.030s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.030s] -- Detecting CXX compile features
+[1.030s] -- Detecting CXX compile features - done
+[1.030s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.030s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.030s] -- Configuring done
+[1.030s] -- Generating done
+[1.030s] -- Build files have been written to: /home/darshan/ros2_ws/build/champ_teleop
+[1.052s] Invoked command in '/home/darshan/ros2_ws/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darshan/ros2_ws/src/champ/champ_teleop -DCMAKE_INSTALL_PREFIX=/home/darshan/ros2_ws/install/champ_teleop
+[1.052s] Invoking command in '/home/darshan/ros2_ws/build/champ_teleop': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_teleop -- -j24 -l24
+[1.072s] Invoked command in '/home/darshan/ros2_ws/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_teleop -- -j24 -l24
+[1.120s] Invoking command in '/home/darshan/ros2_ws/build/champ_teleop': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_teleop
+[1.153s] -- Install configuration: ""
+[1.153s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/launch
+[1.153s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/launch/teleop.launch.py
+[1.153s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/lib/champ_teleop/champ_teleop.py
+[1.153s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/ament_index/resource_index/package_run_dependencies/champ_teleop
+[1.153s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/ament_index/resource_index/parent_prefix_path/champ_teleop
+[1.154s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.sh
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/environment/ament_prefix_path.dsv
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/environment/path.sh
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/environment/path.dsv
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.bash
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.sh
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.zsh
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/local_setup.dsv
+[1.156s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/package.dsv
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/ament_index/resource_index/packages/champ_teleop
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/champ_teleop/share/champ_teleop/package.xml
+[1.218s] Invoked command in '/home/darshan/ros2_ws/build/champ_teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_teleop

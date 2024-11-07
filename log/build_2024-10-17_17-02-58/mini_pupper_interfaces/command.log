@@ -1,0 +1,6 @@
+Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces -DCMAKE_INSTALL_PREFIX=/home/darshan/ros2_ws/install/mini_pupper_interfaces
+Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces -DCMAKE_INSTALL_PREFIX=/home/darshan/ros2_ws/install/mini_pupper_interfaces
+Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_interfaces -- -j24 -l24
+Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_interfaces -- -j24 -l24
+Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_interfaces
+Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_interfaces

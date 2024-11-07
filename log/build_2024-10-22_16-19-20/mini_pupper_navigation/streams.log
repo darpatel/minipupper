@@ -1,0 +1,29 @@
+[0.667s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_navigation -- -j24 -l24
+[0.987s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_navigation -- -j24 -l24
+[1.091s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_navigation
+[1.125s] -- Install configuration: ""
+[1.125s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/launch
+[1.125s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/launch/navigation.launch.py
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/map.pgm
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/maps/map.yaml
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/param
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/param/mini_pupper.yaml
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/rviz
+[1.126s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/rviz/navigation.rviz
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/ament_index/resource_index/package_run_dependencies/mini_pupper_navigation
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/ament_index/resource_index/parent_prefix_path/mini_pupper_navigation
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/ament_prefix_path.sh
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/ament_prefix_path.dsv
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/path.sh
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/environment/path.dsv
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.bash
+[1.127s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.sh
+[1.128s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.zsh
+[1.128s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/local_setup.dsv
+[1.128s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/package.dsv
+[1.128s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/ament_index/resource_index/packages/mini_pupper_navigation
+[1.128s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/cmake/mini_pupper_navigationConfig.cmake
+[1.128s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/cmake/mini_pupper_navigationConfig-version.cmake
+[1.128s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_navigation/share/mini_pupper_navigation/package.xml
+[1.202s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_navigation

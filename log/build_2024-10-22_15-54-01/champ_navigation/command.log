@@ -1,0 +1,4 @@
+Invoking command in '/home/darshan/ros2_ws/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_navigation -- -j24 -l24
+Invoked command in '/home/darshan/ros2_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_navigation -- -j24 -l24
+Invoking command in '/home/darshan/ros2_ws/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_navigation
+Invoked command in '/home/darshan/ros2_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_navigation

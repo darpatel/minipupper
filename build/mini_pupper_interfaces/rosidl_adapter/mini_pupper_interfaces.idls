@@ -1,0 +1,5 @@
+/home/darshan/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:srv/DanceCommand.idl
+/home/darshan/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:srv/PlayMusic.idl
+/home/darshan/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:srv/StopMusic.idl
+/home/darshan/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:msg/LineDetectionResult.idl
+/home/darshan/ros2_ws/build/mini_pupper_interfaces/rosidl_adapter/mini_pupper_interfaces:msg/AiLineRecognitionResult.idl

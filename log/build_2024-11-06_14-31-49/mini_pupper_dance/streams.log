@@ -1,0 +1,23 @@
+[0.372s] Invoking command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_dance': CMAKE_PREFIX_PATH=/home/darshan/ros2_ws/install/mini_pupper_interfaces:/home/darshan/ros2_ws/install/mini_pupper_slam:/home/darshan/ros2_ws/install/mini_pupper_navigation:/home/darshan/ros2_ws/install/mini_pupper_gazebo:/home/darshan/ros2_ws/install/mini_pupper_description:/home/darshan/ros2_ws/install/mini_pupper_bringup:/home/darshan/ros2_ws/install/ldlidar_stl_ros2:/home/darshan/ros2_ws/install/champ_teleop:/home/darshan/ros2_ws/install/champ_navigation:/home/darshan/ros2_ws/install/champ_gazebo:/home/darshan/ros2_ws/install/champ_bringup:/home/darshan/ros2_ws/install/champ_base:/home/darshan/ros2_ws/install/champ_msgs:/home/darshan/ros2_ws/install/champ_description:/home/darshan/ros2_ws/install/champ_config:/home/darshan/ros2_ws/install/champ PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_dance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_dance build --build-base /home/darshan/ros2_ws/build/mini_pupper_dance/build install --record /home/darshan/ros2_ws/build/mini_pupper_dance/install.log --single-version-externally-managed install_data
+[0.554s] running egg_info
+[0.554s] writing ../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/PKG-INFO
+[0.555s] writing dependency_links to ../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/dependency_links.txt
+[0.555s] writing entry points to ../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/entry_points.txt
+[0.555s] writing requirements to ../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/requires.txt
+[0.555s] writing top-level names to ../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/top_level.txt
+[0.556s] reading manifest file '../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/SOURCES.txt'
+[0.557s] writing manifest file '../../../build/mini_pupper_dance/mini_pupper_dance.egg-info/SOURCES.txt'
+[0.557s] running build
+[0.557s] running build_py
+[0.557s] running install
+[0.557s] running install_lib
+[0.558s] running install_data
+[0.558s] running install_egg_info
+[0.559s] removing '/home/darshan/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages/mini_pupper_dance-0.0.0-py3.10.egg-info' (and everything under it)
+[0.559s] Copying ../../../build/mini_pupper_dance/mini_pupper_dance.egg-info to /home/darshan/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages/mini_pupper_dance-0.0.0-py3.10.egg-info
+[0.560s] running install_scripts
+[0.572s] Installing client script to /home/darshan/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[0.572s] Installing pose_controller script to /home/darshan/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[0.572s] Installing service script to /home/darshan/ros2_ws/install/mini_pupper_dance/lib/mini_pupper_dance
+[0.572s] writing list of installed files to '/home/darshan/ros2_ws/build/mini_pupper_dance/install.log'
+[0.587s] Invoked command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_dance' returned '0': CMAKE_PREFIX_PATH=/home/darshan/ros2_ws/install/mini_pupper_interfaces:/home/darshan/ros2_ws/install/mini_pupper_slam:/home/darshan/ros2_ws/install/mini_pupper_navigation:/home/darshan/ros2_ws/install/mini_pupper_gazebo:/home/darshan/ros2_ws/install/mini_pupper_description:/home/darshan/ros2_ws/install/mini_pupper_bringup:/home/darshan/ros2_ws/install/ldlidar_stl_ros2:/home/darshan/ros2_ws/install/champ_teleop:/home/darshan/ros2_ws/install/champ_navigation:/home/darshan/ros2_ws/install/champ_gazebo:/home/darshan/ros2_ws/install/champ_bringup:/home/darshan/ros2_ws/install/champ_base:/home/darshan/ros2_ws/install/champ_msgs:/home/darshan/ros2_ws/install/champ_description:/home/darshan/ros2_ws/install/champ_config:/home/darshan/ros2_ws/install/champ PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_dance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_dance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_dance build --build-base /home/darshan/ros2_ws/build/mini_pupper_dance/build install --record /home/darshan/ros2_ws/build/mini_pupper_dance/install.log --single-version-externally-managed install_data

@@ -1,0 +1,294 @@
+[0.126s] Invoking command in '/home/darshan/ros2_ws/build/champ_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_msgs -- -j24 -l24
+[1.040s] [  1%] Built target champ_msgs__cpp
+[1.041s] [ 12%] Built target champ_msgs__rosidl_generator_c
+[1.041s] [ 12%] Built target ament_cmake_python_copy_champ_msgs
+[1.042s] [ 24%] Built target champ_msgs__rosidl_typesupport_introspection_c
+[1.042s] [ 35%] Built target champ_msgs__rosidl_typesupport_c
+[1.043s] [ 50%] Built target champ_msgs__rosidl_typesupport_fastrtps_cpp
+[1.044s] [ 58%] Built target champ_msgs__rosidl_typesupport_introspection_cpp
+[1.045s] [ 70%] Built target champ_msgs__rosidl_typesupport_fastrtps_c
+[1.045s] [ 82%] Built target champ_msgs__rosidl_typesupport_cpp
+[1.045s] [ 82%] Built target champ_msgs
+[1.045s] [ 83%] Built target champ_msgs__py
+[1.046s] [ 93%] Built target champ_msgs__rosidl_generator_py
+[1.047s] [ 95%] Built target champ_msgs__rosidl_typesupport_introspection_c__pyext
+[1.047s] [100%] Built target champ_msgs__rosidl_typesupport_c__pyext
+[1.049s] [100%] Built target champ_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.049s] running egg_info
+[1.049s] writing champ_msgs.egg-info/PKG-INFO
+[1.050s] writing dependency_links to champ_msgs.egg-info/dependency_links.txt
+[1.050s] writing top-level names to champ_msgs.egg-info/top_level.txt
+[1.050s] reading manifest file 'champ_msgs.egg-info/SOURCES.txt'
+[1.051s] writing manifest file 'champ_msgs.egg-info/SOURCES.txt'
+[1.051s] [100%] Built target ament_cmake_python_build_champ_msgs_egg
+[1.064s] Invoked command in '/home/darshan/ros2_ws/build/champ_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_msgs -- -j24 -l24
+[1.435s] Invoking command in '/home/darshan/ros2_ws/build/champ_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_msgs
+[1.448s] -- Install configuration: ""
+[1.449s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/ament_index/resource_index/rosidl_interfaces/champ_msgs
+[1.450s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs
+[1.451s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg
+[1.452s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/contacts_stamped.h
+[1.452s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/pose.h
+[1.453s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/velocities.h
+[1.453s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/contacts.h
+[1.453s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.453s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/point_array.h
+[1.454s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/point.h
+[1.454s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/imu.h
+[1.454s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail
+[1.454s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__struct.h
+[1.456s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__functions.c
+[1.456s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__functions.h
+[1.456s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__functions.h
+[1.457s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__type_support.h
+[1.457s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__functions.c
+[1.457s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__struct.h
+[1.458s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__type_support.h
+[1.458s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__struct.h
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__functions.h
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__functions.c
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__type_support.h
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__functions.h
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__functions.h
+[1.461s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__type_support.h
+[1.461s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__struct.h
+[1.461s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__functions.c
+[1.461s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__struct.h
+[1.462s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__struct.h
+[1.462s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__type_support.h
+[1.463s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__functions.h
+[1.463s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__struct.h
+[1.464s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__functions.c
+[1.464s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__functions.h
+[1.464s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__type_support.h
+[1.464s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__struct.h
+[1.465s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__struct.h
+[1.465s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__functions.c
+[1.465s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__functions.c
+[1.466s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__functions.h
+[1.466s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__type_support.h
+[1.466s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__functions.c
+[1.466s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__type_support.h
+[1.466s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__functions.c
+[1.467s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__functions.h
+[1.467s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__type_support.h
+[1.467s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/joints.h
+[1.467s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/pid.h
+[1.467s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/library_path.sh
+[1.467s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/library_path.dsv
+[1.468s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_generator_c.so
+[1.468s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs
+[1.468s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg
+[1.468s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.468s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail
+[1.468s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__rosidl_typesupport_fastrtps_c.h
+[1.469s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__rosidl_typesupport_fastrtps_c.h
+[1.469s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__rosidl_typesupport_fastrtps_c.h
+[1.469s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__rosidl_typesupport_fastrtps_c.h
+[1.469s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__rosidl_typesupport_fastrtps_c.h
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__rosidl_typesupport_fastrtps_c.h
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__rosidl_typesupport_fastrtps_c.h
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__rosidl_typesupport_fastrtps_c.h
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_typesupport_fastrtps_c.so
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg
+[1.470s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.471s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail
+[1.471s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__type_support.c
+[1.471s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__type_support.c
+[1.471s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__rosidl_typesupport_introspection_c.h
+[1.471s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__rosidl_typesupport_introspection_c.h
+[1.471s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__type_support.c
+[1.472s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__rosidl_typesupport_introspection_c.h
+[1.474s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__type_support.c
+[1.474s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__type_support.c
+[1.474s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__type_support.c
+[1.475s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__rosidl_typesupport_introspection_c.h
+[1.475s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__type_support.c
+[1.475s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__type_support.c
+[1.476s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[1.476s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__rosidl_typesupport_introspection_c.h
+[1.476s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__rosidl_typesupport_introspection_c.h
+[1.477s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__rosidl_typesupport_introspection_c.h
+[1.477s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__rosidl_typesupport_introspection_c.h
+[1.477s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__type_support.c
+[1.477s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_typesupport_introspection_c.so
+[1.477s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_typesupport_c.so
+[1.478s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs
+[1.478s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg
+[1.478s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/point_array.hpp
+[1.479s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/velocities.hpp
+[1.479s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/joints.hpp
+[1.479s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/pose.hpp
+[1.479s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/contacts_stamped.hpp
+[1.479s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail
+[1.479s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__struct.hpp
+[1.480s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__traits.hpp
+[1.480s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__struct.hpp
+[1.480s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__builder.hpp
+[1.480s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__struct.hpp
+[1.480s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__builder.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__struct.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__traits.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__traits.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__builder.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__builder.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__struct.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__builder.hpp
+[1.481s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__builder.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__traits.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__traits.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__traits.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__builder.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__traits.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__struct.hpp
+[1.482s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__struct.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__builder.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__builder.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__traits.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__traits.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__struct.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__struct.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/point.hpp
+[1.483s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/pid.hpp
+[1.484s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/contacts.hpp
+[1.484s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/imu.hpp
+[1.484s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs
+[1.484s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg
+[1.484s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.484s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__rosidl_typesupport_fastrtps_cpp.hpp
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__rosidl_typesupport_fastrtps_cpp.hpp
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__rosidl_typesupport_fastrtps_cpp.hpp
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__rosidl_typesupport_fastrtps_cpp.hpp
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__rosidl_typesupport_fastrtps_cpp.hpp
+[1.485s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/dds_fastrtps
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__rosidl_typesupport_fastrtps_cpp.hpp
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__rosidl_typesupport_fastrtps_cpp.hpp
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail
+[1.486s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__type_support.cpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__type_support.cpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__rosidl_typesupport_introspection_cpp.hpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pose__type_support.cpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__rosidl_typesupport_introspection_cpp.hpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts__type_support.cpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/velocities__type_support.cpp
+[1.487s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__type_support.cpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__type_support.cpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__rosidl_typesupport_introspection_cpp.hpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/contacts_stamped__rosidl_typesupport_introspection_cpp.hpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point__rosidl_typesupport_introspection_cpp.hpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/point_array__rosidl_typesupport_introspection_cpp.hpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/joints__type_support.cpp
+[1.488s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__type_support.cpp
+[1.489s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/pid__rosidl_typesupport_introspection_cpp.hpp
+[1.489s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/include/champ_msgs/champ_msgs/msg/detail/imu__rosidl_typesupport_introspection_cpp.hpp
+[1.489s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_typesupport_introspection_cpp.so
+[1.489s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_typesupport_cpp.so
+[1.489s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/pythonpath.sh
+[1.489s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/pythonpath.dsv
+[1.490s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs-0.1.0-py3.10.egg-info
+[1.490s] -- Installing: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs-0.1.0-py3.10.egg-info/PKG-INFO
+[1.490s] -- Installing: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs-0.1.0-py3.10.egg-info/SOURCES.txt
+[1.490s] -- Installing: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs-0.1.0-py3.10.egg-info/dependency_links.txt
+[1.490s] -- Installing: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs-0.1.0-py3.10.egg-info/top_level.txt
+[1.490s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs
+[1.492s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/__init__.py
+[1.492s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/_champ_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.492s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/libchamp_msgs__rosidl_generator_py.so
+[1.492s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/_champ_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.493s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg
+[1.493s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_point.py
+[1.493s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_pid.py
+[1.493s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_contacts_s.c
+[1.496s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_imu_s.c
+[1.497s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_pose.py
+[1.497s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/__init__.py
+[1.497s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_pid_s.c
+[1.497s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_velocities_s.c
+[1.497s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_point_array_s.c
+[1.498s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_joints.py
+[1.498s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_contacts.py
+[1.498s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_contacts_stamped.py
+[1.498s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_pose_s.c
+[1.498s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_contacts_stamped_s.c
+[1.499s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_joints_s.c
+[1.499s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_point_array.py
+[1.499s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_point_s.c
+[1.499s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_velocities.py
+[1.499s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg/_imu.py
+[1.500s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/champ_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.500s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/champ_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.500s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/_champ_msgs_s.ep.rosidl_typesupport_c.c
+[1.500s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/champ_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.530s] Listing '/home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs'...
+[1.530s] Listing '/home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/msg'...
+[1.535s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/champ_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.536s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/champ_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.536s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/local/lib/python3.10/dist-packages/champ_msgs/champ_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.536s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/lib/libchamp_msgs__rosidl_generator_py.so
+[1.536s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Velocities.idl
+[1.537s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/PID.idl
+[1.537s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Imu.idl
+[1.537s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Point.idl
+[1.537s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/PointArray.idl
+[1.537s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Joints.idl
+[1.538s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Contacts.idl
+[1.538s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/ContactsStamped.idl
+[1.538s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Pose.idl
+[1.538s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Velocities.msg
+[1.539s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/PID.msg
+[1.539s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Imu.msg
+[1.539s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Point.msg
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/PointArray.msg
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Joints.msg
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Contacts.msg
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/ContactsStamped.msg
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/msg/Pose.msg
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/ament_index/resource_index/package_run_dependencies/champ_msgs
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/ament_index/resource_index/parent_prefix_path/champ_msgs
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/ament_prefix_path.sh
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/ament_prefix_path.dsv
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/path.sh
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/environment/path.dsv
+[1.540s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/local_setup.bash
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/local_setup.sh
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/local_setup.zsh
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/local_setup.dsv
+[1.541s] -- Installing: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/package.dsv
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/ament_index/resource_index/packages/champ_msgs
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_generator_cExport.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_cExport.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.541s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_generator_cppExport.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_cppExport.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_generator_pyExport.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/export_champ_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/rosidl_cmake-extras.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.542s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.543s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgsConfig.cmake
+[1.543s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/cmake/champ_msgsConfig-version.cmake
+[1.543s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_msgs/share/champ_msgs/package.xml
+[1.545s] Invoked command in '/home/darshan/ros2_ws/build/champ_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_msgs

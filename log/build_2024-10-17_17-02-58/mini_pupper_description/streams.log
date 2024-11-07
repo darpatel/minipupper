@@ -1,0 +1,136 @@
+[0.058s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_description -DCMAKE_INSTALL_PREFIX=/home/darshan/ros2_ws/install/mini_pupper_description
+[1.027s] -- The C compiler identification is GNU 11.4.0
+[1.027s] -- The CXX compiler identification is GNU 11.4.0
+[1.027s] -- Detecting C compiler ABI info
+[1.027s] -- Detecting C compiler ABI info - done
+[1.027s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.028s] -- Detecting C compile features
+[1.028s] -- Detecting C compile features - done
+[1.028s] -- Detecting CXX compiler ABI info
+[1.029s] -- Detecting CXX compiler ABI info - done
+[1.029s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.029s] -- Detecting CXX compile features
+[1.030s] -- Detecting CXX compile features - done
+[1.032s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.033s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.034s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.034s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.034s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.034s] -- Added test 'lint_cmake' to check CMake code style
+[1.035s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.035s] -- Added test 'xmllint' to check XML markup files
+[1.035s] -- Configuring done
+[1.035s] -- Generating done
+[1.035s] -- Build files have been written to: /home/darshan/ros2_ws/build/mini_pupper_description
+[1.045s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_description -DCMAKE_INSTALL_PREFIX=/home/darshan/ros2_ws/install/mini_pupper_description
+[1.045s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_description -- -j24 -l24
+[1.060s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_description -- -j24 -l24
+[1.107s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_description
+[1.124s] -- Install configuration: ""
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/launch
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/launch/mini_pupper_description.launch.py
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/ros_control
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/ros_control/mini_pupper_controller.yaml
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/ros_control/mini_pupper_2_controller.yaml
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ
+[1.124s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper
+[1.125s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper/joints.yaml
+[1.125s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper/links.yaml
+[1.125s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper/gait.yaml
+[1.125s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper_2
+[1.125s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper_2/joints.yaml
+[1.125s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper_2/links.yaml
+[1.126s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/config/champ/mini_pupper_2/gait.yaml
+[1.126s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/rviz
+[1.126s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/rviz/urdf_viewer.rviz
+[1.126s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf
+[1.126s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper
+[1.126s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper/mini_pupper_description.urdf.xacro
+[1.127s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper/usb_plug.urdf.xacro
+[1.127s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper/d435.urdf.xacro
+[1.128s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper/materials.urdf.xacro
+[1.128s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper_2
+[1.129s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper_2/mini_pupper_description.urdf.xacro
+[1.129s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper_2/mini_pupper_description.trans
+[1.129s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/urdf/mini_pupper_2/materials.xacro
+[1.129s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes
+[1.135s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper
+[1.136s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rb2.STL
+[1.136s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rpf2.STL
+[1.136s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rb1.STL
+[1.136s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lpb1.STL
+[1.136s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/plug_collision.stl
+[1.137s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lb3.STL
+[1.137s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/base_link.STL
+[1.137s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lf2.STL
+[1.137s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rpb2.STL
+[1.137s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rf1.STL
+[1.138s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/plug.stl
+[1.138s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rf3.STL
+[1.138s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lpf2.STL
+[1.138s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lf1.STL
+[1.139s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lpf1.STL
+[1.139s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lidar.STL
+[1.139s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rpf1.STL
+[1.139s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lbfoot.STL
+[1.140s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lf3.STL
+[1.141s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rpb1.STL
+[1.141s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rbfoot.STL
+[1.143s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lb1.STL
+[1.143s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/yellow_plate.STL
+[1.143s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rf2.STL
+[1.143s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lb2.STL
+[1.144s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/d435.dae
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lpb2.STL
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rffoot.STL
+[1.155s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/lffoot.STL
+[1.157s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper/rb3.STL
+[1.157s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/base_link.stl
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lf2.stl
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rf2.stl
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rpf1.stl
+[1.158s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rf1.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rb1.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rb3.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lb2.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/Board_connectors_2.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lb3.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/Body_front.stl
+[1.159s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rpb1.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rb2.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lpb2.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lf3.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lffoot.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rffoot.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lidar.stl
+[1.160s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lf1.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lb1.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/Shell_Side.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/Board_connectors_1.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lpf2.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lpf1.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/Board_PCB.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rbfoot.stl
+[1.161s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rpf2.stl
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rf3.stl
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lpb1.stl
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/rpb2.stl
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/meshes/mini_pupper_2/lbfoot.stl
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/ament_index/resource_index/package_run_dependencies/mini_pupper_description
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/ament_index/resource_index/parent_prefix_path/mini_pupper_description
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/environment/ament_prefix_path.sh
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/environment/ament_prefix_path.dsv
+[1.162s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/environment/path.sh
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/environment/path.dsv
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/local_setup.bash
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/local_setup.sh
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/local_setup.zsh
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/local_setup.dsv
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/package.dsv
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/ament_index/resource_index/packages/mini_pupper_description
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/cmake/mini_pupper_descriptionConfig.cmake
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/cmake/mini_pupper_descriptionConfig-version.cmake
+[1.163s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_description/share/mini_pupper_description/package.xml
+[1.197s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_description

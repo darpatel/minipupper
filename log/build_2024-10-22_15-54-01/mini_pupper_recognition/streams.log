@@ -1,0 +1,25 @@
+[1.353s] Invoking command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_recognition': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_recognition/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_recognition build --build-base /home/darshan/ros2_ws/build/mini_pupper_recognition/build install --record /home/darshan/ros2_ws/build/mini_pupper_recognition/install.log --single-version-externally-managed install_data
+[1.663s] running egg_info
+[1.663s] writing ../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/PKG-INFO
+[1.664s] writing dependency_links to ../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/dependency_links.txt
+[1.665s] writing entry points to ../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/entry_points.txt
+[1.665s] writing requirements to ../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/requires.txt
+[1.665s] writing top-level names to ../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/top_level.txt
+[1.667s] reading manifest file '../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/SOURCES.txt'
+[1.669s] writing manifest file '../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info/SOURCES.txt'
+[1.669s] running build
+[1.669s] running build_py
+[1.671s] running install
+[1.671s] running install_lib
+[1.675s] running install_data
+[1.676s] running install_egg_info
+[1.678s] removing '/home/darshan/ros2_ws/install/mini_pupper_recognition/lib/python3.10/site-packages/mini_pupper_recognition-1.0.0-py3.10.egg-info' (and everything under it)
+[1.679s] Copying ../../../build/mini_pupper_recognition/mini_pupper_recognition.egg-info to /home/darshan/ros2_ws/install/mini_pupper_recognition/lib/python3.10/site-packages/mini_pupper_recognition-1.0.0-py3.10.egg-info
+[1.680s] running install_scripts
+[1.712s] Installing cloud_line_following_node script to /home/darshan/ros2_ws/install/mini_pupper_recognition/lib/mini_pupper_recognition
+[1.713s] Installing cloud_line_recognition_node script to /home/darshan/ros2_ws/install/mini_pupper_recognition/lib/mini_pupper_recognition
+[1.714s] Installing line_detection_node script to /home/darshan/ros2_ws/install/mini_pupper_recognition/lib/mini_pupper_recognition
+[1.714s] Installing normal_line_following_node script to /home/darshan/ros2_ws/install/mini_pupper_recognition/lib/mini_pupper_recognition
+[1.714s] Installing pid_line_following_node script to /home/darshan/ros2_ws/install/mini_pupper_recognition/lib/mini_pupper_recognition
+[1.714s] writing list of installed files to '/home/darshan/ros2_ws/build/mini_pupper_recognition/install.log'
+[1.754s] Invoked command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_recognition' returned '0': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_recognition/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_recognition/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_recognition build --build-base /home/darshan/ros2_ws/build/mini_pupper_recognition/build install --record /home/darshan/ros2_ws/build/mini_pupper_recognition/install.log --single-version-externally-managed install_data

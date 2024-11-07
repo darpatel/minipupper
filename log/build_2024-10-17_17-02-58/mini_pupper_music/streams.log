@@ -1,0 +1,45 @@
+[1.440s] Invoking command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_music': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_music/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_music build --build-base /home/darshan/ros2_ws/build/mini_pupper_music/build install --record /home/darshan/ros2_ws/build/mini_pupper_music/install.log --single-version-externally-managed install_data
+[1.676s] running egg_info
+[1.677s] creating ../../../build/mini_pupper_music/mini_pupper_music.egg-info
+[1.677s] writing ../../../build/mini_pupper_music/mini_pupper_music.egg-info/PKG-INFO
+[1.678s] writing dependency_links to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/dependency_links.txt
+[1.678s] writing entry points to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/entry_points.txt
+[1.678s] writing requirements to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/requires.txt
+[1.678s] writing top-level names to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/top_level.txt
+[1.678s] writing manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+[1.679s] reading manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+[1.680s] writing manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+[1.681s] running build
+[1.681s] running build_py
+[1.681s] creating /home/darshan/ros2_ws/build/mini_pupper_music/build
+[1.682s] creating /home/darshan/ros2_ws/build/mini_pupper_music/build/lib
+[1.682s] creating /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+[1.682s] copying mini_pupper_music/__init__.py -> /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+[1.682s] copying mini_pupper_music/music_player.py -> /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+[1.682s] copying mini_pupper_music/music_server.py -> /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music
+[1.683s] running install
+[1.683s] running install_lib
+[1.684s] creating /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+[1.684s] copying /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music/__init__.py -> /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+[1.684s] copying /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music/music_player.py -> /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+[1.684s] copying /home/darshan/ros2_ws/build/mini_pupper_music/build/lib/mini_pupper_music/music_server.py -> /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music
+[1.685s] byte-compiling /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music/__init__.py to __init__.cpython-310.pyc
+[1.685s] byte-compiling /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music/music_player.py to music_player.cpython-310.pyc
+[1.685s] byte-compiling /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music/music_server.py to music_server.cpython-310.pyc
+[1.686s] running install_data
+[1.687s] creating /home/darshan/ros2_ws/install/mini_pupper_music/share/ament_index
+[1.687s] creating /home/darshan/ros2_ws/install/mini_pupper_music/share/ament_index/resource_index
+[1.687s] creating /home/darshan/ros2_ws/install/mini_pupper_music/share/ament_index/resource_index/packages
+[1.687s] copying resource/mini_pupper_music -> /home/darshan/ros2_ws/install/mini_pupper_music/share/ament_index/resource_index/packages
+[1.687s] copying package.xml -> /home/darshan/ros2_ws/install/mini_pupper_music/share/mini_pupper_music
+[1.687s] creating /home/darshan/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/audio
+[1.688s] copying audio/robot1.wav -> /home/darshan/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/audio
+[1.691s] copying audio/robot1.mp3 -> /home/darshan/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/audio
+[1.694s] creating /home/darshan/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/launch
+[1.694s] copying launch/music.launch.py -> /home/darshan/ros2_ws/install/mini_pupper_music/share/mini_pupper_music/launch
+[1.695s] running install_egg_info
+[1.697s] Copying ../../../build/mini_pupper_music/mini_pupper_music.egg-info to /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music-1.0.0-py3.10.egg-info
+[1.697s] running install_scripts
+[1.718s] Installing service script to /home/darshan/ros2_ws/install/mini_pupper_music/lib/mini_pupper_music
+[1.719s] writing list of installed files to '/home/darshan/ros2_ws/build/mini_pupper_music/install.log'
+[1.744s] Invoked command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_music' returned '0': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_music/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_music build --build-base /home/darshan/ros2_ws/build/mini_pupper_music/build install --record /home/darshan/ros2_ws/build/mini_pupper_music/install.log --single-version-externally-managed install_data

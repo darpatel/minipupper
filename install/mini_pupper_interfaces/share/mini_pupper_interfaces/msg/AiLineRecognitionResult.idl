@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mini_pupper_interfaces/msg/AiLineRecognitionResult.msg
+// generated code does not contain a copyright notice
+
+
+module mini_pupper_interfaces {
+  module msg {
+    struct AiLineRecognitionResult {
+      string direction;
+
+      string extent;
+
+      string orientation;
+    };
+  };
+};

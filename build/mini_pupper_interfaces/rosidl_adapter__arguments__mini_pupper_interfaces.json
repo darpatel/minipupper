@@ -1,0 +1,10 @@
+{
+  "package_name": "mini_pupper_interfaces",
+  "non_idl_tuples": [
+    "/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:srv/DanceCommand.srv",
+    "/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:srv/PlayMusic.srv",
+    "/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:srv/StopMusic.srv",
+    "/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:msg/LineDetectionResult.msg",
+    "/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_interfaces:msg/AiLineRecognitionResult.msg"
+  ]
+}

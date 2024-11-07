@@ -1,0 +1,25 @@
+[0.327s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_gazebo -- -j24 -l24
+[0.884s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_gazebo -- -j24 -l24
+[0.991s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_gazebo
+[0.999s] -- Install configuration: ""
+[1.000s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/launch
+[1.000s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/launch/gazebo.launch.py
+[1.000s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds
+[1.000s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/mini_pupper_home.world
+[1.000s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/worlds/empty.world
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/package_run_dependencies/mini_pupper_gazebo
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/parent_prefix_path/mini_pupper_gazebo
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/ament_prefix_path.sh
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/ament_prefix_path.dsv
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/path.sh
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/environment/path.dsv
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.bash
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.sh
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.zsh
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/local_setup.dsv
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/package.dsv
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/ament_index/resource_index/packages/mini_pupper_gazebo
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/cmake/mini_pupper_gazeboConfig.cmake
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/cmake/mini_pupper_gazeboConfig-version.cmake
+[1.001s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_gazebo/share/mini_pupper_gazebo/package.xml
+[1.060s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_gazebo
