@@ -1,0 +1,21 @@
+[1.701s] Invoking command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_line_follower': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_line_follower build --build-base /home/darshan/ros2_ws/build/mini_pupper_line_follower/build install --record /home/darshan/ros2_ws/build/mini_pupper_line_follower/install.log --single-version-externally-managed install_data
+[1.940s] running egg_info
+[1.941s] writing ../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/PKG-INFO
+[1.942s] writing dependency_links to ../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/dependency_links.txt
+[1.942s] writing entry points to ../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/entry_points.txt
+[1.942s] writing requirements to ../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/requires.txt
+[1.942s] writing top-level names to ../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/top_level.txt
+[1.944s] reading manifest file '../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/SOURCES.txt'
+[1.945s] writing manifest file '../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info/SOURCES.txt'
+[1.946s] running build
+[1.946s] running build_py
+[1.946s] running install
+[1.946s] running install_lib
+[1.948s] running install_data
+[1.948s] running install_egg_info
+[1.950s] removing '/home/darshan/ros2_ws/install/mini_pupper_line_follower/lib/python3.10/site-packages/mini_pupper_line_follower-0.0.0-py3.10.egg-info' (and everything under it)
+[1.951s] Copying ../../../build/mini_pupper_line_follower/mini_pupper_line_follower.egg-info to /home/darshan/ros2_ws/install/mini_pupper_line_follower/lib/python3.10/site-packages/mini_pupper_line_follower-0.0.0-py3.10.egg-info
+[1.951s] running install_scripts
+[1.978s] Installing line_follower script to /home/darshan/ros2_ws/install/mini_pupper_line_follower/lib/mini_pupper_line_follower
+[1.978s] writing list of installed files to '/home/darshan/ros2_ws/build/mini_pupper_line_follower/install.log'
+[2.295s] Invoked command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_line_follower' returned '0': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_line_follower build --build-base /home/darshan/ros2_ws/build/mini_pupper_line_follower/build install --record /home/darshan/ros2_ws/build/mini_pupper_line_follower/install.log --single-version-externally-managed install_data

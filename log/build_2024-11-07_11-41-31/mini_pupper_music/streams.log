@@ -1,0 +1,21 @@
+[1.801s] Invoking command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_music': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_music/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_music build --build-base /home/darshan/ros2_ws/build/mini_pupper_music/build install --record /home/darshan/ros2_ws/build/mini_pupper_music/install.log --single-version-externally-managed install_data
+[2.075s] running egg_info
+[2.075s] writing ../../../build/mini_pupper_music/mini_pupper_music.egg-info/PKG-INFO
+[2.076s] writing dependency_links to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/dependency_links.txt
+[2.076s] writing entry points to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/entry_points.txt
+[2.076s] writing requirements to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/requires.txt
+[2.076s] writing top-level names to ../../../build/mini_pupper_music/mini_pupper_music.egg-info/top_level.txt
+[2.077s] reading manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+[2.077s] writing manifest file '../../../build/mini_pupper_music/mini_pupper_music.egg-info/SOURCES.txt'
+[2.078s] running build
+[2.078s] running build_py
+[2.078s] running install
+[2.078s] running install_lib
+[2.079s] running install_data
+[2.079s] running install_egg_info
+[2.081s] removing '/home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music-1.0.0-py3.10.egg-info' (and everything under it)
+[2.081s] Copying ../../../build/mini_pupper_music/mini_pupper_music.egg-info to /home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages/mini_pupper_music-1.0.0-py3.10.egg-info
+[2.081s] running install_scripts
+[2.096s] Installing service script to /home/darshan/ros2_ws/install/mini_pupper_music/lib/mini_pupper_music
+[2.096s] writing list of installed files to '/home/darshan/ros2_ws/build/mini_pupper_music/install.log'
+[2.305s] Invoked command in '/home/darshan/ros2_ws/src/mini_pupper_ros/mini_pupper_music' returned '0': PYTHONPATH=/home/darshan/ros2_ws/build/mini_pupper_music/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darshan/ros2_ws/install/mini_pupper_music/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/mini_pupper_music build --build-base /home/darshan/ros2_ws/build/mini_pupper_music/build install --record /home/darshan/ros2_ws/build/mini_pupper_music/install.log --single-version-externally-managed install_data

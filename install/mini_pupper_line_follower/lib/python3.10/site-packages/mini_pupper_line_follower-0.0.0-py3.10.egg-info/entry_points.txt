@@ -1,0 +1,4 @@
+[console_scripts]
+line_follower = mini_pupper_line_follower.line_follower:main
+line_followerv2 = mini_pupper_line_follower.line_followerv2:main
+

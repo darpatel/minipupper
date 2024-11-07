@@ -1,0 +1,27 @@
+[0.145s] Invoking command in '/home/darshan/ros2_ws/build/champ_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_navigation -- -j24 -l24
+[1.360s] Invoked command in '/home/darshan/ros2_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ_navigation -- -j24 -l24
+[1.427s] Invoking command in '/home/darshan/ros2_ws/build/champ_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_navigation
+[1.459s] -- Install configuration: ""
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/launch
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/launch/slam.launch.py
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/launch/navigate.launch.py
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/rviz
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/rviz/slam.rviz
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/rviz/navigation.rviz
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/rviz/navigation_minimal.rviz
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/ament_index/resource_index/package_run_dependencies/champ_navigation
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/ament_index/resource_index/parent_prefix_path/champ_navigation
+[1.459s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.sh
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.dsv
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/environment/path.sh
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/environment/path.dsv
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/local_setup.bash
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/local_setup.sh
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/local_setup.zsh
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/local_setup.dsv
+[1.460s] -- Installing: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/package.dsv
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/ament_index/resource_index/packages/champ_navigation
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig.cmake
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig-version.cmake
+[1.460s] -- Up-to-date: /home/darshan/ros2_ws/install/champ_navigation/share/champ_navigation/package.xml
+[1.529s] Invoked command in '/home/darshan/ros2_ws/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ_navigation

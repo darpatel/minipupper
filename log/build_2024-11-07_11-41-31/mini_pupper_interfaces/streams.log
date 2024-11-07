@@ -1,0 +1,240 @@
+[0.122s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_interfaces -- -j24 -l24
+[1.274s] [  1%] Built target mini_pupper_interfaces__cpp
+[1.274s] [ 12%] Built target mini_pupper_interfaces__rosidl_generator_c
+[1.274s] [ 12%] Built target ament_cmake_python_copy_mini_pupper_interfaces
+[1.274s] [ 23%] Built target mini_pupper_interfaces__rosidl_typesupport_introspection_cpp
+[1.274s] [ 34%] Built target mini_pupper_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.274s] [ 46%] Built target mini_pupper_interfaces__rosidl_typesupport_cpp
+[1.275s] [ 57%] Built target mini_pupper_interfaces__rosidl_typesupport_c
+[1.275s] [ 68%] Built target mini_pupper_interfaces__rosidl_typesupport_introspection_c
+[1.275s] [ 79%] Built target mini_pupper_interfaces__rosidl_typesupport_fastrtps_c
+[1.275s] [ 79%] Built target mini_pupper_interfaces
+[1.275s] [ 80%] Built target mini_pupper_interfaces__py
+[1.276s] [ 90%] Built target mini_pupper_interfaces__rosidl_generator_py
+[1.276s] [ 96%] Built target mini_pupper_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.276s] [ 96%] Built target mini_pupper_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.276s] [100%] Built target mini_pupper_interfaces__rosidl_typesupport_c__pyext
+[1.276s] running egg_info
+[1.276s] writing mini_pupper_interfaces.egg-info/PKG-INFO
+[1.276s] writing dependency_links to mini_pupper_interfaces.egg-info/dependency_links.txt
+[1.276s] writing top-level names to mini_pupper_interfaces.egg-info/top_level.txt
+[1.277s] reading manifest file 'mini_pupper_interfaces.egg-info/SOURCES.txt'
+[1.277s] writing manifest file 'mini_pupper_interfaces.egg-info/SOURCES.txt'
+[1.277s] [100%] Built target ament_cmake_python_build_mini_pupper_interfaces_egg
+[1.291s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_interfaces -- -j24 -l24
+[1.594s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_interfaces
+[1.614s] -- Install configuration: ""
+[1.615s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/ament_index/resource_index/rosidl_interfaces/mini_pupper_interfaces
+[1.615s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces
+[1.615s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg
+[1.617s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/line_detection_result.h
+[1.617s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/ai_line_recognition_result.h
+[1.617s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.618s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail
+[1.618s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__functions.h
+[1.618s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__type_support.h
+[1.619s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__functions.c
+[1.619s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__struct.h
+[1.619s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__struct.h
+[1.619s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__type_support.h
+[1.619s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__functions.h
+[1.620s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__functions.c
+[1.620s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv
+[1.620s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/dance_command.h
+[1.620s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/play_music.h
+[1.621s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/stop_music.h
+[1.621s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail
+[1.621s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__type_support.h
+[1.621s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__functions.c
+[1.621s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__struct.h
+[1.621s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__functions.c
+[1.622s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__functions.h
+[1.622s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__struct.h
+[1.622s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__type_support.h
+[1.622s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__functions.h
+[1.623s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__struct.h
+[1.623s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__functions.c
+[1.624s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__functions.h
+[1.625s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__type_support.h
+[1.625s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/library_path.sh
+[1.625s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/library_path.dsv
+[1.625s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_generator_c.so
+[1.625s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces
+[1.626s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg
+[1.626s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.626s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail
+[1.626s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__rosidl_typesupport_fastrtps_c.h
+[1.626s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__rosidl_typesupport_fastrtps_c.h
+[1.627s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv
+[1.627s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail
+[1.627s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__rosidl_typesupport_fastrtps_c.h
+[1.628s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__rosidl_typesupport_fastrtps_c.h
+[1.628s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_fastrtps_c.h
+[1.628s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.628s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces
+[1.629s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg
+[1.629s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/ai_line_recognition_result.hpp
+[1.629s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail
+[1.629s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__builder.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__struct.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__traits.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__struct.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__traits.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__builder.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/line_detection_result.hpp
+[1.630s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv
+[1.631s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/dance_command.hpp
+[1.631s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/stop_music.hpp
+[1.631s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail
+[1.631s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__builder.hpp
+[1.632s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__traits.hpp
+[1.632s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__struct.hpp
+[1.632s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__traits.hpp
+[1.632s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__builder.hpp
+[1.633s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__struct.hpp
+[1.634s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__traits.hpp
+[1.635s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__builder.hpp
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__struct.hpp
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/play_music.hpp
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__rosidl_typesupport_fastrtps_cpp.hpp
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__rosidl_typesupport_fastrtps_cpp.hpp
+[1.636s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/dds_fastrtps
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__rosidl_typesupport_fastrtps_cpp.hpp
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__rosidl_typesupport_fastrtps_cpp.hpp
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_fastrtps_cpp.hpp
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dds_fastrtps
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.637s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces
+[1.638s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg
+[1.638s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.638s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail
+[1.638s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__type_support.c
+[1.638s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__rosidl_typesupport_introspection_c.h
+[1.640s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__type_support.c
+[1.641s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__rosidl_typesupport_introspection_c.h
+[1.641s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv
+[1.641s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail
+[1.641s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__type_support.c
+[1.642s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__rosidl_typesupport_introspection_c.h
+[1.643s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_introspection_c.h
+[1.643s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__type_support.c
+[1.643s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__type_support.c
+[1.643s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__rosidl_typesupport_introspection_c.h
+[1.643s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_typesupport_introspection_c.so
+[1.644s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_typesupport_c.so
+[1.644s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces
+[1.644s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg
+[1.645s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail
+[1.645s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__type_support.cpp
+[1.645s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__rosidl_typesupport_introspection_cpp.hpp
+[1.645s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/line_detection_result__rosidl_typesupport_introspection_cpp.hpp
+[1.646s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/msg/detail/ai_line_recognition_result__type_support.cpp
+[1.647s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv
+[1.648s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail
+[1.648s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__rosidl_typesupport_introspection_cpp.hpp
+[1.648s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__rosidl_typesupport_introspection_cpp.hpp
+[1.649s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/stop_music__type_support.cpp
+[1.649s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__rosidl_typesupport_introspection_cpp.hpp
+[1.649s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/dance_command__type_support.cpp
+[1.649s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/include/mini_pupper_interfaces/mini_pupper_interfaces/srv/detail/play_music__type_support.cpp
+[1.650s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.650s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_typesupport_cpp.so
+[1.650s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/pythonpath.sh
+[1.650s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/pythonpath.dsv
+[1.651s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces-0.0.0-py3.10.egg-info
+[1.651s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[1.651s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.651s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.651s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[1.652s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces
+[1.652s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/libmini_pupper_interfaces__rosidl_generator_py.so
+[1.652s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/__init__.py
+[1.652s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg
+[1.652s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg/__init__.py
+[1.652s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg/_ai_line_recognition_result_s.c
+[1.653s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg/_line_detection_result.py
+[1.653s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg/_line_detection_result_s.c
+[1.653s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg/_ai_line_recognition_result.py
+[1.653s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv
+[1.653s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/_dance_command.py
+[1.654s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/__init__.py
+[1.654s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/_stop_music.py
+[1.654s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/_dance_command_s.c
+[1.654s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/_play_music.py
+[1.654s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/_play_music_s.c
+[1.654s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv/_stop_music_s.c
+[1.655s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/_mini_pupper_interfaces_s.ep.rosidl_typesupport_c.c
+[1.655s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/_mini_pupper_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.655s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/mini_pupper_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.655s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/_mini_pupper_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[1.655s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/mini_pupper_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.655s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/mini_pupper_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.700s] Listing '/home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces'...
+[1.701s] Listing '/home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/msg'...
+[1.701s] Listing '/home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/srv'...
+[1.706s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/mini_pupper_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.707s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/mini_pupper_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.707s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/local/lib/python3.10/dist-packages/mini_pupper_interfaces/mini_pupper_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.707s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/lib/libmini_pupper_interfaces__rosidl_generator_py.so
+[1.708s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/DanceCommand.idl
+[1.708s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/PlayMusic.idl
+[1.708s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/StopMusic.idl
+[1.708s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/msg/LineDetectionResult.idl
+[1.709s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/msg/AiLineRecognitionResult.idl
+[1.709s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/DanceCommand.srv
+[1.709s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/DanceCommand_Request.msg
+[1.709s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/DanceCommand_Response.msg
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/PlayMusic.srv
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/PlayMusic_Request.msg
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/PlayMusic_Response.msg
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/StopMusic.srv
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/StopMusic_Request.msg
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/srv/StopMusic_Response.msg
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/msg/LineDetectionResult.msg
+[1.710s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/msg/AiLineRecognitionResult.msg
+[1.711s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/ament_index/resource_index/package_run_dependencies/mini_pupper_interfaces
+[1.711s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/ament_index/resource_index/parent_prefix_path/mini_pupper_interfaces
+[1.711s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/ament_prefix_path.sh
+[1.712s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/ament_prefix_path.dsv
+[1.712s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/path.sh
+[1.712s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/environment/path.dsv
+[1.712s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/local_setup.bash
+[1.712s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/local_setup.sh
+[1.713s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/local_setup.zsh
+[1.714s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/local_setup.dsv
+[1.714s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/package.dsv
+[1.714s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/ament_index/resource_index/packages/mini_pupper_interfaces
+[1.715s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_generator_cExport.cmake
+[1.715s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.715s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[1.715s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.715s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_generator_cppExport.cmake
+[1.716s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.716s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.716s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.716s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.717s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_cExport.cmake
+[1.717s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.717s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.718s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.720s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_cppExport.cmake
+[1.722s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.722s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_generator_pyExport.cmake
+[1.722s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/export_mini_pupper_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[1.724s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.725s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.725s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.725s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.725s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.726s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.726s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.726s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfacesConfig.cmake
+[1.726s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/cmake/mini_pupper_interfacesConfig-version.cmake
+[1.726s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_interfaces/share/mini_pupper_interfaces/package.xml
+[1.743s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_interfaces

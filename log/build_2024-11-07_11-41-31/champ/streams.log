@@ -1,0 +1,51 @@
+[0.129s] Invoking command in '/home/darshan/ros2_ws/build/champ': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ -- -j24 -l24
+[1.300s] Invoked command in '/home/darshan/ros2_ws/build/champ' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/champ -- -j24 -l24
+[1.366s] Invoking command in '/home/darshan/ros2_ws/build/champ': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ
+[1.414s] -- Install configuration: ""
+[1.415s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include
+[1.415s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ
+[1.415s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/macros
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/macros/macros.h
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/body_controller
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/body_controller/body_controller.h
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/.git
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/LICENSE
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/bla
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/bla/basic_linear_algebra.h
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/bla/memory_delegate.h
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/odometry
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/odometry/odometry.h
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/geometry
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/geometry/geometry.h
+[1.416s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/leg_controller
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/leg_controller/trajectory_planner.h
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/leg_controller/phase_generator.h
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/leg_controller/leg_controller.h
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/README.md
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/kinematics
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/kinematics/kinematics.h
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/utils
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/utils/xmlrpc_helpers.h
+[1.417s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/utils/urdf_loader.h
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/quadruped_base
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/quadruped_base/quadruped_joint.h
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/quadruped_base/quadruped_base.h
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/quadruped_base/quadruped_leg.h
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/include/champ/quadruped_base/quadruped_components.h
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/ament_index/resource_index/package_run_dependencies/champ
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/ament_index/resource_index/parent_prefix_path/champ
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/environment/ament_prefix_path.sh
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/environment/ament_prefix_path.dsv
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/environment/path.sh
+[1.418s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/environment/path.dsv
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/local_setup.bash
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/local_setup.sh
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/local_setup.zsh
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/local_setup.dsv
+[1.419s] -- Installing: /home/darshan/ros2_ws/install/champ/share/champ/package.dsv
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/ament_index/resource_index/packages/champ
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/cmake/champConfig.cmake
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/cmake/champConfig-version.cmake
+[1.419s] -- Up-to-date: /home/darshan/ros2_ws/install/champ/share/champ/package.xml
+[1.485s] Invoked command in '/home/darshan/ros2_ws/build/champ' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/champ

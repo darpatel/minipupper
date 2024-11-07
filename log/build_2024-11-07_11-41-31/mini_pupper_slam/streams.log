@@ -1,0 +1,26 @@
+[1.172s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_slam -- -j24 -l24
+[1.267s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --build /home/darshan/ros2_ws/build/mini_pupper_slam -- -j24 -l24
+[1.402s] Invoking command in '/home/darshan/ros2_ws/build/mini_pupper_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_slam
+[1.425s] -- Install configuration: ""
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/launch
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/launch/slam.launch.py
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/config
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/config/slam.lua
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/rviz
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/rviz/slam.rviz
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/ament_index/resource_index/package_run_dependencies/mini_pupper_slam
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/ament_index/resource_index/parent_prefix_path/mini_pupper_slam
+[1.426s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/environment/ament_prefix_path.sh
+[1.427s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/environment/ament_prefix_path.dsv
+[1.427s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/environment/path.sh
+[1.428s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/environment/path.dsv
+[1.428s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/local_setup.bash
+[1.428s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/local_setup.sh
+[1.429s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/local_setup.zsh
+[1.429s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/local_setup.dsv
+[1.429s] -- Installing: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/package.dsv
+[1.429s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/ament_index/resource_index/packages/mini_pupper_slam
+[1.429s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/cmake/mini_pupper_slamConfig.cmake
+[1.429s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/cmake/mini_pupper_slamConfig-version.cmake
+[1.430s] -- Up-to-date: /home/darshan/ros2_ws/install/mini_pupper_slam/share/mini_pupper_slam/package.xml
+[1.494s] Invoked command in '/home/darshan/ros2_ws/build/mini_pupper_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/darshan/ros2_ws/install/mini_pupper_line_follower:/home/darshan/ros2_ws/install/mini_pupper_recognition:/home/darshan/ros2_ws/install/mini_pupper_music:/home/darshan/ros2_ws/install/mini_pupper_dance:/home/darshan/ros2_ws/install/mini_pupper_driver:/opt/ros/humble /usr/bin/cmake --install /home/darshan/ros2_ws/build/mini_pupper_slam

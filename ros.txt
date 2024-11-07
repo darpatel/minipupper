@@ -1,0 +1,9 @@
+Mini Pupper
+export ROS_DOMAIN_ID=24
+export ROS_LOCALHOST_ONLY=24
+ros2 launch mini_pupper_bringup bringup.launch.py
+
+Laptop
+export ROS_DOMAIN_ID=24
+export ROS_LOCALHOST_ONLY=24
+ros2 launch mini_pupper_recognition recognition.launch.py pid:=false
